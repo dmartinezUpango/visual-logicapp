@@ -4,5 +4,13 @@
       "name": "pruebas-visual",
       "path": "./pruebas-visual"
     }
-  ]
+  ],
+  "settings": {
+    "terminal.integrated.env.windows": {
+      "PATH": "C:\\Users\\DomingoMartínezDiaz\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+      "C:\\Users\\DomingoMartínezDiaz\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ]
+  }
 }
